@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <p>git reset</p>
+    <p>Wrong commit</p>
 </body>
 </html>
