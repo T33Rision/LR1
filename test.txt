@@ -6,3 +6,4 @@ git status
 >>>>>>> parent of 245385f (New commit)
 branch
 rebase
+edit
