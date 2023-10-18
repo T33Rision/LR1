@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dev
+=======
+master
+>>>>>>> b79a94c (New change)
