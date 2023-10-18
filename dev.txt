@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 dev
+<<<<<<< HEAD
 =======
 master
 >>>>>>> b79a94c (New change)
@@ -10,3 +11,6 @@ master
 rebase
 >>>>>>> 53a0b3a (Commit - 3)
 edit3
+=======
+edit4
+>>>>>>> dev
