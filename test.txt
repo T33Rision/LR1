@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello
+=======
+Hello
+git status
+>>>>>>> parent of 245385f (New commit)
