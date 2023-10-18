@@ -7,7 +7,7 @@ git status
 branch
 rebase
 <<<<<<< HEAD
-edit3
+
 =======
-edit4
+
 >>>>>>> dev
