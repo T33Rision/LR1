@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 dev
 =======
 master
 >>>>>>> b79a94c (New change)
+=======
+Зміна master
+Зміна на гілці dev!
+rebase
+>>>>>>> 53a0b3a (Commit - 3)
